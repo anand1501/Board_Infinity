@@ -1,0 +1,32 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTful todoListApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo  \"Error: no test spesified\\\"  $$ exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anand1501/Board_Infinity.git"
+  },
+  "keywords": [
+    "[\"RESTful\"",
+    "\"API\"",
+    "\"Tutorial\"]"
+  ],
+  "author": "\"anand kumar\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anand1501/Board_Infinity/issues"
+  },
+  "homepage": "https://github.com/anand1501/Board_Infinity#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.3"
+  }
+}
